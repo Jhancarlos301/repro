@@ -25,14 +25,14 @@ jwplayer("container").setup({
 		  playlist: [
 			// https://dl6.debrid.link/dl/e2r99f7606c9ca75986fe10574477c1347e314b899a2/La.Mujer.Rey.2022.1080p-dual-lat.mp4
        {        
-		    title: "Uncharted",
+		    title: "Spencer",
 		    description: "La fortuna favorece a los audaces.",
 		    image: "https://cdn.vietsubtv.org/images/film/truyen-ky-ly-tieu-long-5726.jpg",
 		    sources: [{
 				// Google Chrome
 				// https://dl.dropboxusercontent.com/s/llup8uc3k6du8nt/Creed%20II%20%282018%29%20HD%20720p%20Latino.mkv?dl=0
 				// https://onedrive.live.com/download?cid=DE273C0A10CE737B&resid=DE273C0A10CE737B%21113&authkey=ABb-WjMIa9wk6P
-		    file: "https://www90.uptobox.com/dl/RrKFGReBSnPZl-lafZ2m2fjvweCST-IUcrA-wbDoHVDR_X1N2HUuov-yjEyMEnstSa7bIcf9gSLmv8m9WrACslr4y0-O8s3p6WNb06pz4yMay68gHcir0-D3NBm5QWA-/The.bad.batch.2016.1080p-dual-lat.mp4",
+		    file: "https://pixeldrain.com/api/file/rxvomvuE",
 		      label: 'Defecto',
 		      'type': 'mp4',
 		      primary: 'html5',
